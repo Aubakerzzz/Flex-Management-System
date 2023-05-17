@@ -32,7 +32,7 @@
 <img src="ss/WhatsApp Image 2023-05-14 at 11.08.41 PM.jpeg"/>
 <img src="ss/WhatsApp Image 2023-05-14 at 11.09.15 PM.jpeg"/>
 <img src="ss/WhatsApp Image 2023-05-14 at 11.09.48 PM.jpeg"/>
-<img src ="ss/WhatsApp Image 2023-05-14 at 11.10.26 PM.jpeg"/>
+
 
 
 
