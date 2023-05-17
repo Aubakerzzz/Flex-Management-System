@@ -1,7 +1,7 @@
 
 <h1> FLEX-MANAGEMENT-SYSTEM</h1>
 <p>
-  Whole Project have voice recognition system
+  The entire project incorporates a voice recognition system.
 <p>
   Back-end in sql file there is function of audit which maintains the history!
  </p>
