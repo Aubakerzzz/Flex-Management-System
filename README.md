@@ -1,7 +1,31 @@
 <h1> FLEX-MANAGEMENT-SYSTEM</h1>
 
-<!-- Start from index 30 and iterate until 49 -->
-{% for i in range(30, 50) %}
-![Screenshot {{i}}](ss/Screenshot ({{i}}).png)
-{% endfor %}
+<img src="ss/Screenshot (30).png"/>
+<img src="ss/Screenshot (31).png"/>
+<img src="ss/Screenshot (32).png"/>
+
+<img src="ss/Screenshot (33).png"/>
+<img src="ss/Screenshot (34).png"/>
+<img src="ss/Screenshot (35).png"/>
+
+<img src="ss/Screenshot (36).png"/>
+<img src="ss/Screenshot (37).png"/>
+<img src="ss/Screenshot (38).png"/>
+
+<img src="ss/Screenshot (39).png"/>
+<img src="ss/Screenshot (40).png"/>
+<img src="ss/Screenshot (41).png"/>
+
+<img src="ss/Screenshot (42).png"/>
+<img src="ss/Screenshot (43).png"/>
+<img src="ss/Screenshot (44).png"/>
+
+<img src="ss/Screenshot (45).png"/>
+<img src="ss/Screenshot (46).png"/>
+<img src="ss/Screenshot (47).png"/>
+
+<img src="ss/Screenshot (48).png"/>
+<img src="ss/Screenshot (49).png"/>
+
+
 
