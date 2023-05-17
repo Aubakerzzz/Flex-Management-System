@@ -1,8 +1,11 @@
 
 <h1> FLEX-MANAGEMENT-SYSTEM</h1>
 <p>
+  Whole Project have voice recognition system
+<p>
   Back-end in sql file there is function of audit which maintains the history!
  </p>
+ 
 <img src="ss/Screenshot (30).png"/>
 <img src="ss/Screenshot (31).png"/>
 <img src="ss/Screenshot (32).png"/>
