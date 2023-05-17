@@ -3,7 +3,7 @@
 <p>
   The entire project incorporates a voice recognition system.
 <p>
-  Back-end in sql file there is function of audit which maintains the history!
+  Within the SQL file of the project's back-end, a function dedicated to audit purposes is implemented to ensure the maintenance of historical records.
  </p>
  
 <img src="ss/Screenshot (30).png"/>
