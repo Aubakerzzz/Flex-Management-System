@@ -1,5 +1,8 @@
-<h1> FLEX-MANAGEMENT-SYSTEM</h1>
 
+<h1> FLEX-MANAGEMENT-SYSTEM</h1>
+<p>
+  Back-end on sql there is also audit functionality which maintains the history!
+ </p>
 <img src="ss/Screenshot (30).png"/>
 <img src="ss/Screenshot (31).png"/>
 <img src="ss/Screenshot (32).png"/>
