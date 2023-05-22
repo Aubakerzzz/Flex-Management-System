@@ -243,10 +243,10 @@
             <h1 id="colorful-text">Welcome to Fast Flex</h1>
             <p style="color: white;">Choose an Option</p>
             <ul>
-               <li><a href="Student Login.aspx"  onclick="speakMessage3()">Academic Office</a></li>
-               <li><a href="Student Login.aspx"  onclick="speakMessage2()">Faculty</a></li>
+               <li><a href="WebForm8.aspx"  onclick="speakMessage3()">Academic Office</a></li>
+               <li><a href="WebForm6.aspx"  onclick="speakMessage2()">Faculty</a></li>
                <%--<li><a href="WebForm1.aspx"  onclick="speak('Welcome to Fast Student')">Students</a></li>--%>
-               <li><a href="Student Login.aspx"onclick="speakMessage1()">Students</a></li>
+               <li><a href="WebForm1.aspx"onclick="speakMessage1()">Students</a></li>
             </ul>
          </div>
       </form>
@@ -273,13 +273,13 @@
           function navigateToPage(page) {
               switch (page) {
                   case "academic":
-                      window.location.href = "Student Login.aspx";
+                      window.location.href = "WebForm8.aspx";
                       break;
                   case "faculty":
-                      window.location.href = "Student Login.aspx";
+                      window.location.href = "WebForm6.aspx";
                       break;
                   case "students":
-                      window.location.href = "Student Login.aspx";
+                      window.location.href = "WebForm1.aspx";
                       break;
                   case "fast":
                       window.location.href = "http://isb.nu.edu.pk/Faculty/allfaculty/";
